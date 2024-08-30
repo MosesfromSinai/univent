@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Univent",
   description: "University Recruiting Career Events for Future Technology Leaders",
   icons: {
-    icon: ''
+    icon: '/assets/images/logo.svg'
   }
 };
 
